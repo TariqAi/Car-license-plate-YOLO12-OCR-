@@ -1,0 +1,6 @@
+train:
+val:
+#number of classes
+nc: 1
+#class names
+names: ['car_plate']
