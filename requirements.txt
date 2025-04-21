@@ -3,5 +3,7 @@ pandas
 ultralytics
 cvzone
 numpy
-# pytesseract
 easyocr
+ultralytics
+paddleocr
+paddlepaddle -f https://www.paddlepaddle.org.cn/whl/paddle/linux/mkl/avx/stable.html
