@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Input video file
-video_path = 'video.mp4'  # Change to your video path
+video_path = 'mycarplate.mp4'  # Change to your video path
 
 # Output directory for extracted frames
 output_dir = 'extracted_frames'

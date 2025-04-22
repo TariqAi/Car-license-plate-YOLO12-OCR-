@@ -8,7 +8,7 @@ import re
 video_path = 'video.mp4'
 output_video_path = 'output_video.mp4'
 output_txt_path = 'license_plates.txt'
-roi_points = np.array([[1823, 1042], [269, 1014], [269, 1226], [1864, 1212]])
+roi_points = np.array([[436, 234], [1653, 274], [1824, 1071], [293, 1020]])
 # roi_points = np.array([[351, 412], [1679, 461], [1737, 755], [368, 700]])
 
 
